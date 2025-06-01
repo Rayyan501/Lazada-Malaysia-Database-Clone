@@ -3,7 +3,7 @@
 A relational database system inspired by Lazada Malaysia, designed to simulate an e-commerce environment with core entities, transaction handling, and automation features.
 
 ## 🗂 Project Overview
-Our "Database fundamental Course" assignment where I took the position of leading the group.
+Our "Database fundamental Course" assignment where I took the position of leading the group. We learned alot about Reational databases and SQL.
 This project models a simplified version of Lazada's backend structure, focusing on:
 
 - Customers, Products, Orders, Vendors, and Ratings
