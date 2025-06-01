@@ -36,5 +36,3 @@ This project models a simplified version of Lazada's backend structure, focusing
 A detailed PDF report explaining the schema, query design, and automation features is included in the repository.
 
 ---
-
-> ⚙️ Designed with academic and educational purposes in mind to demonstrate practical database design and implementation.
